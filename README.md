@@ -6,14 +6,14 @@ Este é um guia de estudos que contém alguns assuntos e ferramentas que conside
 
 <h2>Guia</h2>
 
-![GuiaDeEstudos](https://github.com/greenteamhc/Roadmap-Cybersecurity/assets/97129518/d48f3a67-1525-408f-b738-792ccba58991)
+<!-- ![GuiaDeEstudos](https://github.com/greenteamhc/Roadmap-Cybersecurity/assets/97129518/d48f3a67-1525-408f-b738-792ccba58991) -->
 
 
 <h2> Conteúdo </h2>
 Abaixo estão os tópicos do roadmap e algumas recomendações de conteúdos que você pode ou não utilizar. Sinta-se livre para estudar pelo conteúdo que achar melhor. Note que não há necessidade de ter cada programa citado no seu computador, como por exemplo as IDEs do tópico <b>1.4</b>, mas será útil conhecer sobre elas ou outras para escolher a que mais te agrada. O mesmo vale para os assuntos citados, não há necessidade de dominar cada tópico citado, mas ter uma noção básica do que ele significa pode ser útil.
 <p> </p>
 
-1. **Programação**
+- **1. Programação**
     ##### [Vídeo - Sobre começar a programar [PT-BR]](https://www.youtube.com/watch?v=BTENKdRVS2U)
     ##### [Vídeo - Funcionamento de linguagens de programação [PT-BR]](https://www.youtube.com/watch?v=22nd99SLgNA)
     - **1.1** Lógica de programação
@@ -37,7 +37,7 @@ Abaixo estão os tópicos do roadmap e algumas recomendações de conteúdos que
 
 <p> </p>
     
-2. **OSINT**
+- **2. OSINT**
     ##### [Texto - O que é OSINT [PT-BR]](https://blog.xpeducacao.com.br/open-source-intelligence/)
     ##### [Prática - Exercícios de OSINT [EN]](https://gralhix.com/list-of-osint-exercises/)
     - **2.1** Google Dorking
@@ -49,7 +49,7 @@ Abaixo estão os tópicos do roadmap e algumas recomendações de conteúdos que
 
 <p> </p>
 
-3. **InfoSec**
+- **3. InfoSec**
     ##### [O que é InfoSec e características](https://www.microsoft.com/pt-br/security/business/security-101/what-is-information-security-infosec)
     - **3.1** InfoSec X Cibersegurança
     - **3.2** Os 3 pilares
@@ -64,7 +64,7 @@ Abaixo estão os tópicos do roadmap e algumas recomendações de conteúdos que
 
 <p> </p>
 
-4. **Codificação**
+- **4. Codificação**
     - **4.1** Binário
     - **4.2** ASCII
     - **4.3** Octal
@@ -73,7 +73,7 @@ Abaixo estão os tópicos do roadmap e algumas recomendações de conteúdos que
 
 <p> </p>
 
-5. **Criptografia**
+- **5. Criptografia**
     - **5.1** Cifra de César
     - **5.2** Cifra de Vinégere
     - **5.3** ROT13
@@ -88,7 +88,7 @@ Abaixo estão os tópicos do roadmap e algumas recomendações de conteúdos que
 
 <p> </p>
 
-6. **Linux**
+- **6. Linux**
     - **6.1** Movimento Software Livre
         - **6.1.1** Linus Torvald
         - **6.1.2** Richard Stalman
@@ -113,7 +113,7 @@ Abaixo estão os tópicos do roadmap e algumas recomendações de conteúdos que
 
 <p> </p>
 
-7. **Redes**
+- **7. Redes**
     - **7.1** Topologia
     - **7.2** Anatomia da URL
     - **7.3** Dispositivos
@@ -153,7 +153,7 @@ Abaixo estão os tópicos do roadmap e algumas recomendações de conteúdos que
 
 <p> </p>
 
-8. **Pwning**
+- **8. Pwning**
     - **8.1** Vulnerabilidades
         ##### [Vídeo - Sistemas totalmente protegidos [PT-BR]](https://www.youtube.com/watch?v=wz1Ioqb89Jo)
         - **8.1.1** OWASP
@@ -173,7 +173,7 @@ Abaixo estão os tópicos do roadmap e algumas recomendações de conteúdos que
 
 <p> </p>
 
-9. **Engenharia Reversa**
+- **9. Engenharia Reversa**
     - **9.1** Arquitetura de computadores
         - **9.1.1** Noções básicas de hardware
         - **9.1.2** Funcionamento de processadores
@@ -185,7 +185,7 @@ Abaixo estão os tópicos do roadmap e algumas recomendações de conteúdos que
 
 <p> </p>
 
-10. **Bancos de dados**
+- **10. Bancos de dados**
     - **10.1** Bancos de dados relacionais
     - **10.2** Bancos de dados não-relacionais
     - **10.3** Arquitetura e instalação
@@ -195,7 +195,7 @@ Abaixo estão os tópicos do roadmap e algumas recomendações de conteúdos que
 
 <p> </p>
 
-11. **DevOps**
+- **11. DevOps**
     - **11.1** Cloud
     - **11.2** Containers
     - **11.3** Kubernets
