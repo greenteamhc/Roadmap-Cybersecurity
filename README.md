@@ -46,18 +46,23 @@ Abaixo estão os tópicos do roadmap e algumas recomendações de conteúdos que
     - **2.2** Engenharia Social
         ##### [Texto - O que é engenharia social e aplicações [PT-BR]](https://ahrefs.com/blog/google-advanced-search-operators/)
         ##### [Vídeo - O que é engenharia social e aplicações [PT-BR]](https://www.youtube.com/watch?v=NI_Kdo443es)
-
+    - **2.4** Sock Puppet
+        ##### [Vídeo - Criação de sock puppets [EN]](https://www.youtube.com/watch?v=E5wJEGyiPPk)
+    - **2.5** Shodan
+        ##### [O que é o Shodan [PT-BR]](https://www.hardware.com.br/artigos/shodan-mecanismo-de-busca-mostra-dispositivos-conectados/)
+    - **2.6** Maltego
+        ##### [Texto - O que é o Maltego [PT-BR]](https://rootsec.com.br/maltego-a-poderosa-ferramenta-de-coletar-informacoes/)
 <p> </p>
 
 - **3. InfoSec**
-    ##### [O que é InfoSec e características](https://www.microsoft.com/pt-br/security/business/security-101/what-is-information-security-infosec)
+    ##### [Texto - O que é InfoSec e características [PT-BR / EN]](https://www.microsoft.com/pt-br/security/business/security-101/what-is-information-security-infosec)
     - **3.1** InfoSec X Cibersegurança
     - **3.2** Os 3 pilares
     - **3.3** Leis de segurança de dados
         - **3.3.1** LGPD          
         - **3.3.2** GDPR
     - **3.4** CTF
-        ##### [Texto - O que são CTFs](https://acaditi.com.br/ctf/)
+        ##### [Texto - O que são CTFs [PT-BR]](https://acaditi.com.br/ctf/)
     - **3.5** Red Team
     - **3.6** Blue Team
     - **3.7** Purple Team
@@ -66,33 +71,42 @@ Abaixo estão os tópicos do roadmap e algumas recomendações de conteúdos que
 
 - **4. Codificação**
     - **4.1** Binário
-    - **4.2** ASCII
-    - **4.3** Octal
+    - **4.2** Octal
+    - **4.3** ASCII
     - **4.4** Hexadecimal
     - **4.5** Base 64
 
 <p> </p>
 
 - **5. Criptografia**
+    ##### [Vídeo - Informações sobre criptografia [PT-BR]](https://www.youtube.com/watch?v=qHFbuXpz7e4)
+    ##### [Vídeo - Conceitos sobre criptografia [PT-BR]](https://www.youtube.com/watch?v=CcU5Kc_FN_4)
+    ##### [Prática - Desafios de criptografia [EN]](https://cryptohack.org/)
     - **5.1** Cifra de César
     - **5.2** Cifra de Vinégere
     - **5.3** ROT13
     - **5.4** Aritmética modular
     - **5.5** Criptografia moderna
+        ##### [Texto - Tipos de criptografia [PT-BR]](http://www.bosontreinamentos.com.br/seguranca/criptografia-tipos-simetrica-assimetrica-e-funcoes-de-hash-02/)
+        ##### [Texto - Encriptação simétrica e assimétrica [PT-BR / EN]](https://academy.binance.com/pt/articles/symmetric-vs-asymmetric-encryption)
         - **5.5.1** Hashing
+            ##### [Texto - O que são hashs [PT-BR]](https://blog.xpeducacao.com.br/criptografia-hash/)
         - **5.5.2** Cifras simétricas
         - **5.5.3** Cifras assimétricas
     - **5.6** Criptoanálise
-        - **5.6.**1** Análise de frequência
+        - **5.6.1** Análise de frequência
         - **5.6.2** Bruteforce
 
 <p> </p>
 
 - **6. Linux**
     - **6.1** Movimento Software Livre
+        ##### [Vídeo - Software livre X Código aberto [PT-BT]](https://www.youtube.com/watch?v=N0NNnq0Wyww)
+        ##### [Vídeo - Licenças de software [PT-BR]](https://www.youtube.com/watch?v=fPfzp6ov2bQ)
         - **6.1.1** Linus Torvald
         - **6.1.2** Richard Stalman
     - **6.2** Sistemas Operacionais
+        ##### [Vídeo - Conceito de sistema operacional [PT-BR]](https://www.youtube.com/watch?v=CCHZ_06DoEA)
     - **6.3** Distribuições
         - **6.3.1** Ubuntu
         - **6.3.2** Kali Linux
@@ -129,6 +143,7 @@ Abaixo estão os tópicos do roadmap e algumas recomendações de conteúdos que
         - **7.4.6** TCP e UDP
         - **7.4.7** HTTP e HTTPS
         - **7.4.8** SSH
+        - **7.4.9** WHOIS
     - **7.5** Handshake
     - **7.6** Modelo OSI
     - **7.7** Ping
@@ -153,9 +168,20 @@ Abaixo estão os tópicos do roadmap e algumas recomendações de conteúdos que
 
 <p> </p>
 
+- **8. Forense Digital**
+    - **8.1** Metadados
+    - **8.2** File Carving
+    - **8.3** Magic Bytes
+    - **8.4** Esteganografia
+        - **8.4.1** Strings
+        - **8.4.2** Exiftools
+        - **8.4.3** Zsteg
+
+<p> </p>
+
 - **8. Pwning**
     - **8.1** Vulnerabilidades
-        ##### [Vídeo - Sistemas totalmente protegidos [PT-BR]](https://www.youtube.com/watch?v=wz1Ioqb89Jo)
+        ##### [Vídeo - Vulnerabilidades e segurança [PT-BR]](https://www.youtube.com/watch?v=wz1Ioqb89Jo)
         - **8.1.1** OWASP
         - **8.1.2** CVE
     - **8.2** Sistemas de pontuação de vulnerabilidades
