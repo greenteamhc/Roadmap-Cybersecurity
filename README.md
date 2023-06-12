@@ -190,14 +190,14 @@ Os conteúdos possuem as seguintes categorias:
 **6.5.7** Editores de texto
 
 **6.6** Diretórios principais
-+ [📖 - Explicações sobre diretórios](https://www.guiafoca.org/guiaonline/iniciante/ch02s03.html)
++ [📖 - Explicações sobre diretórios [PT-BR]](https://www.guiafoca.org/guiaonline/iniciante/ch02s03.html)
 
 **6.7** Permissões
 
 **6.8** Shell
 + [🎥 - O que é Shell [PT-BR]](https://youtu.be/zskFbzsZu8s)
 
-**6.8.1** bash
+**6.8.1** Bash
 + [📖 - Bash para iniciantes [EN]](https://tldp.org/LDP/Bash-Beginners-Guide/html/index.html)
 + [📖 - Bash avançado [EN]](https://tldp.org/LDP/abs/html/index.html)
 
@@ -214,83 +214,99 @@ Os conteúdos possuem as seguintes categorias:
 
 **7.2** Anatomia da URL
 
-**7.3** Dispositivos
+**7.3** Protocolos
 
-**7.3.1** Switch
-
-**7.3.2** Hub
-
-**7.3.3** Roteador
-
-**7.4** Protocolos
-
-**7.4.1** TCP / IP
+**7.3.1** TCP / IP
 + [🎥 - Classificações para IPs [PT-BR]](https://youtu.be/EYQu7uNKvYg)
 + [🎥 - Máscara de rede e gateway [PT-BR]](https://youtu.be/yLgansF_h1w)
 
-**7.4.2** DHCP
+**7.3.2** DHCP
 + [🎥 - Como funciona o DHCP [PT-BR]](https://youtu.be/7pU9iHoJRm4)
 
-**7.4.3** ARP
+**7.3.3** ARP
 + [🎥 - Protocolo ARP, Protocolo Ethernet e MAC Adress [PT-BR]](https://youtu.be/_ITRPKDFWSA)
 
-**7.4.4** Ethernet
+**7.3.4** Ethernet
 
-**7.4.5** NAT
+**7.3.5** NAT
 + [🎥 - Como funciona o protocolo DHCP [PT-BR]](https://youtu.be/p1wdm_hkAY8)
 
-**7.4.6** TCP e UDP
+**7.3.6** TCP e UDP
 + [🎥 - Como funcionam os protocolos TCP e UDP [PT-BR]](https://youtu.be/uRvjPlbJ_98)
 
-**7.4.7** HTTP e HTTPS
+**7.3.7** HTTP e HTTPS
++ [🎥 - O que é e como funciona o protocolo HTTP [PT-BR]](https://www.youtube.com/watch?v=hwttZtWkXTk)
++ [🎥 - Certificados e o porquê do "S" no HTTPS [PT-BR]](https://www.youtube.com/watch?v=eOsGqXy2vmA)
 
-**7.4.8** SSH
+**7.3.8** SSH
++ [📖 - SSH X Telnet [PT-BR]](https://www.alura.com.br/artigos/entendendo-as-diferencas-entre-telnet-e-ssh?gclid=CjwKCAjw4ZWkBhA4EiwAVJXwqQELEGJkU6SY_R3tiY7bJvJmyHO5fA93u-jkKZnY6ozumBi9oIwLzxoCkqsQAvD_BwE)
 
-**7.4.9** WHOIS
+**7.3.9** WHOIS
 
-**7.5** Handshake
+**7.4** Handshake
 
-**7.6** Modelo OSI
+**7.5** Modelo OSI
 + [🎥 - O medelo OSI e suas camadas [PT-BR]](https://youtu.be/7sW8CXVx7IU)
 
-**7.7** Ping
+**7.6** Ping
+
+**7.7** Dispositivos
++ [🎥 - Switch, Hub e Roteador [PT-BR]](https://youtu.be/BmBPhA5b-Lc)
++ [🎥 - Modem e Roteador [PT-BR]](https://youtu.be/feqhdXiG0d8)
++ [🎥 - Equipamentos de rede [PT-BR]](https://www.youtube.com/watch?v=u2LeXY07vrE)
+
+**7.7.1** Switch
+
+**7.7.2** Hub
+
+**7.7.3** Roteador
+
+**7.7.4** Modem
 
 **7.8** DNS
-+ [🎥 - O que é o DNS - [PT-BR]](https://youtu.be/i4KMcl0tuEg)
++ [🎥 - O que é o DNS [PT-BR]](https://youtu.be/i4KMcl0tuEg)
 
 **7.8.1** Hierarquia de domínios
 
 **7.8.2** Tipos de registro
 
-**7.9** Navegadores
+**7.9** Cookies
++ [📖 - O que são e como funcionam os cookies [PT-BR]](https://www.alura.com.br/artigos/o-que-sao-cookies-como-funcionam?gclid=CjwKCAjw4ZWkBhA4EiwAVJXwqVFwnrxxbgXvc5sIg-9xCaaJ5aNsTdyBow4iLvbH0TWr46kEIKr36RoCXqQQAvD_BwE)
 
-**7.9.1** DevTools
+**7.10** Navegadores
 
-**7.9.2** Cookies
+**7.10.1** DevTools
++ [🎥 - Utilidade de algumas seções da DevTools [EN]](https://youtu.be/5mUUBkxayQ4)
 
-**7.9.3** Device Fingerprint
+**7.10.2** Device Fingerprint
++ [📖 - O que é fingerprinting [PT-BR / EN]](https://www.mozilla.org/pt-BR/firefox/features/block-fingerprinting/)
++ [🎥 - Como o browser/device fingerprint é utilizado no reconhecimento de usuários [EN]](https://youtu.be/YSUQUW_hzoM)
 
-**7.9.4** Firefox
 
-**7.9.5** DuckDuckGO
+**7.10.4** Firefox
 
-**7.9.6** Tor
+**7.10.5** DuckDuckGO
 
-**7.10** VPN
+**7.10.6** Tor
++ [🎥 - Tor, Deepweb e Darkweb [PT-BR]](https://youtu.be/JW4czyADb2s)
++ [🎥 - Desanonimação no Tor [EN]](https://youtu.be/v45_tkKCJ54)
++ [🎥 - Fingerprinting no Tor [PT-BR]](https://youtu.be/PbxBDDm2ZG0)
 
-**7.11** Ferramentas
+**7.11** VPN
 
-**7.11.1** Nmap
+**7.12** Ferramentas
 
-**7.11.2** Burpsuite
+**7.12.1** Nmap
 
-**7.11.3** Wireshark
+**7.12.2** Burpsuite
 
-**7.12** Firewall
+**7.12.3** Wireshark
 
-**7.13** IDS / IPS
+**7.13** Firewall
 
-**7.14** SIEM
+**7.14** IDS / IPS
+
+**7.15** SIEM
 
 ### **8.** Forense Digital
 
@@ -336,6 +352,7 @@ Os conteúdos possuem as seguintes categorias:
 **9.5.1** Excalação de privilégios
 
 **9.5.2** Enumeração e descoberta
++ [📖 - Enumeração na cibersegura [EN]](https://crashtest-security.com/enumeration-cyber-security/)
 
 **9.5.3** Movimento lateral (pivoting)
 
