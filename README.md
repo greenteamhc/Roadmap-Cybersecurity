@@ -14,6 +14,7 @@ Os conteúdos possuem as seguintes categorias:
 - 🎥 Vídeo
 - 📖 Texto
 - ✍️ Prática
+- 🎙️ Podcast
 
 ## Seções
 ### **1.** Programação
@@ -83,7 +84,8 @@ Os conteúdos possuem as seguintes categorias:
 
 **3.3** Leis de segurança de dados
 
-**3.3.1** LGPD          
+**3.3.1** LGPD
++ [🎙️ - Impacto da LGPD [PT-BR]](https://soundcloud.com/seginfocast/seginfocast-65-lgpd)
 
 **3.3.2** GDPR
 
@@ -229,7 +231,7 @@ Os conteúdos possuem as seguintes categorias:
 **7.3.4** Ethernet
 
 **7.3.5** NAT
-+ [🎥 - Como funciona o protocolo DHCP [PT-BR]](https://youtu.be/p1wdm_hkAY8)
++ [🎥 - Como funciona o protocolo NAT [PT-BR]](https://youtu.be/p1wdm_hkAY8)
 
 **7.3.6** TCP e UDP
 + [🎥 - Como funcionam os protocolos TCP e UDP [PT-BR]](https://youtu.be/uRvjPlbJ_98)
@@ -293,12 +295,16 @@ Os conteúdos possuem as seguintes categorias:
 + [🎥 - Fingerprinting no Tor [PT-BR]](https://youtu.be/PbxBDDm2ZG0)
 
 **7.11** VPN
++[🎥 - Segurança em VPNs [PT-BR]](https://youtu.be/IYUmw22_woA)
 
 **7.12** Ferramentas
 
 **7.12.1** Nmap
++ [🎥 - O que é o Nmap e aplicações [PT-BR]](https://youtu.be/wG9u-gd78KY)
++ [📖 - Documentação do Nmap [PT-BR]](https://nmap.org/book/man.html)
 
-**7.12.2** Burpsuite
+**7.12.2** Burp Suite
++ [🎥 - Uso do Burp Suite [EN]](https://www.youtube.com/watch?v=ouDe5sJ_uC8&list=PLoX0sUafNGbH9bmbIANk3D50FNUmuJIF3&pp=iAQB)
 
 **7.12.3** Wireshark
 
@@ -309,6 +315,8 @@ Os conteúdos possuem as seguintes categorias:
 **7.15** SIEM
 
 ### **8.** Forense Digital
++ [🎥 - O objetivo da forense digital [PT-BR]](https://youtu.be/WpewQxkjkkQ)
++ [🎙️ - Aspectos da forense computacional [PT-BR]](https://soundcloud.com/seginfocast/seginfocast-23-analise-forense-computacional-ii)
 
 **8.1** Metadados
 
