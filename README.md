@@ -213,8 +213,10 @@ Os conteúdos possuem as seguintes categorias:
 
 ### **7.** Redes
 **7.1** Topologia
++ [📖 - O que são topologias de rede [PT-BR]](https://blog.xpeducacao.com.br/topologias-de-rede/)
 
-**7.2** Anatomia da URL
+**7.2** Estrutura da URL
++ [📖 - Estruturas e dados em uma URL [PT-BR]](https://www.hostinger.com.br/tutoriais/url)
 
 **7.3** Protocolos
 
@@ -271,11 +273,13 @@ Os conteúdos possuem as seguintes categorias:
 **7.8.1** Hierarquia de domínios
 
 **7.8.2** Tipos de registro
++ [📖 - Registros de DNS [PT-BR]](https://ayltoninacio.com.br/blog/tipos-de-registros-dns)
 
 **7.9** Cookies
 + [📖 - O que são e como funcionam os cookies [PT-BR]](https://www.alura.com.br/artigos/o-que-sao-cookies-como-funcionam?gclid=CjwKCAjw4ZWkBhA4EiwAVJXwqVFwnrxxbgXvc5sIg-9xCaaJ5aNsTdyBow4iLvbH0TWr46kEIKr36RoCXqQQAvD_BwE)
 
 **7.10** Navegadores
++ [🎥 - Comparação de desempenho entre diferentes navegadores [PT-BR]](https://youtu.be/Jyv3Aj5oGsU)
 
 **7.10.1** DevTools
 + [🎥 - Utilidade de algumas seções da DevTools [EN]](https://youtu.be/5mUUBkxayQ4)
@@ -295,7 +299,7 @@ Os conteúdos possuem as seguintes categorias:
 + [🎥 - Fingerprinting no Tor [PT-BR]](https://youtu.be/PbxBDDm2ZG0)
 
 **7.11** VPN
-+[🎥 - Segurança em VPNs [PT-BR]](https://youtu.be/IYUmw22_woA)
++ [🎥 - Segurança em VPNs [PT-BR]](https://youtu.be/IYUmw22_woA)
 
 **7.12** Ferramentas
 
@@ -307,6 +311,7 @@ Os conteúdos possuem as seguintes categorias:
 + [🎥 - Uso do Burp Suite [EN]](https://www.youtube.com/watch?v=ouDe5sJ_uC8&list=PLoX0sUafNGbH9bmbIANk3D50FNUmuJIF3&pp=iAQB)
 
 **7.12.3** Wireshark
++ [📖 - Introdução ao WireShark [PT-BR]](https://youtube.com/playlist?list=PLucm8g_ezqNoBnWA9vtlqQeY7Es9Hv3FY)
 
 **7.13** Firewall
 
