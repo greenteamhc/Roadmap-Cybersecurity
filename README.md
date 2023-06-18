@@ -164,6 +164,7 @@ Os conteúdos possuem as seguintes categorias:
 **6.3.1** Arch
 
 **6.3.2** Kali Linux
++ [🎥 - Características do Kali Linux [PT-BR]](https://youtu.be/Ka8V-9YmSjE)
 
 **6.3.3** Fedora Linux
 
@@ -176,6 +177,7 @@ Os conteúdos possuem as seguintes categorias:
 **6.5** Terminal
 + [✍️ - CTF para habituar-se aos comandos do terminal Linux [EN]](https://overthewire.org/wargames/)
 + [📖 - Alguns comandos importantes nos índices 6, 7 e 8 [PT-BR]](https://www.guiafoca.org/guiaonline/iniciante/index.html)
++ [🎥 - Vídeos sobre terminal a partir do índice 8 [PT-BR]](https://youtube.com/playlist?list=PLucm8g_ezqNqz-DVT9n_z-XjRkQ03m7U5)
 
 **6.5.1** Listar diretórios
 
@@ -194,18 +196,22 @@ Os conteúdos possuem as seguintes categorias:
 **6.6** Diretórios principais
 + [📖 - Explicações sobre diretórios [PT-BR]](https://www.guiafoca.org/guiaonline/iniciante/ch02s03.html)
 
-**6.7** Permissões
+**6.7** Log
++ [🎥 - O que é e para que serve o log [PT-BR]](https://youtu.be/BVqFpbFiV34)
++ [🎥 - Logs no Linux [PT-BR]](https://youtu.be/BVqFpbFiV34)
 
-**6.8** Shell
+**6.8** Permissões
+
+**6.9** Shell
 + [🎥 - O que é Shell [PT-BR]](https://youtu.be/zskFbzsZu8s)
 
-**6.8.1** Bash
+**6.9.1** Bash
 + [📖 - Bash para iniciantes [EN]](https://tldp.org/LDP/Bash-Beginners-Guide/html/index.html)
 + [📖 - Bash avançado [EN]](https://tldp.org/LDP/abs/html/index.html)
 
-**6.8.2** Ksh
+**6.9.2** Ksh
 
-**6.8.3** Csh
+**6.9.3** Csh
 
 <div align="right">
   <b><a href="#guia"> Voltar ao topo </a></b>
@@ -246,6 +252,7 @@ Os conteúdos possuem as seguintes categorias:
 + [📖 - SSH X Telnet [PT-BR]](https://www.alura.com.br/artigos/entendendo-as-diferencas-entre-telnet-e-ssh?gclid=CjwKCAjw4ZWkBhA4EiwAVJXwqQELEGJkU6SY_R3tiY7bJvJmyHO5fA93u-jkKZnY6ozumBi9oIwLzxoCkqsQAvD_BwE)
 
 **7.3.9** WHOIS
++ [🎥 - Para que serve o WHOIS [PT-BR]](https://youtu.be/JaPiMft3yME)
 
 **7.4** Handshake
 
@@ -288,7 +295,6 @@ Os conteúdos possuem as seguintes categorias:
 + [📖 - O que é fingerprinting [PT-BR / EN]](https://www.mozilla.org/pt-BR/firefox/features/block-fingerprinting/)
 + [🎥 - Como o browser/device fingerprint é utilizado no reconhecimento de usuários [EN]](https://youtu.be/YSUQUW_hzoM)
 
-
 **7.10.4** Firefox
 
 **7.10.5** DuckDuckGO
@@ -311,9 +317,14 @@ Os conteúdos possuem as seguintes categorias:
 + [🎥 - Uso do Burp Suite [EN]](https://www.youtube.com/watch?v=ouDe5sJ_uC8&list=PLoX0sUafNGbH9bmbIANk3D50FNUmuJIF3&pp=iAQB)
 
 **7.12.3** Wireshark
-+ [📖 - Introdução ao WireShark [PT-BR]](https://youtube.com/playlist?list=PLucm8g_ezqNoBnWA9vtlqQeY7Es9Hv3FY)
++ [🎥 - Introdução ao WireShark [PT-BR]](https://youtube.com/playlist?list=PLucm8g_ezqNoBnWA9vtlqQeY7Es9Hv3FY)
 
 **7.13** Firewall
++ [🎥 - O que é um firewall](https://youtu.be/Qg7mhOXH7QY)
+
+**7.14** WAF
++ [🎥 - O que é WAF [PT-BR]](https://youtu.be/WCHMa45M14E)
++ [📖 - O que é WAF [PT-BR]](https://www.oracle.com/br/security/cloud-security/what-is-waf/)
 
 **7.14** IDS / IPS
 
@@ -324,8 +335,10 @@ Os conteúdos possuem as seguintes categorias:
 + [🎙️ - Aspectos da forense computacional [PT-BR]](https://soundcloud.com/seginfocast/seginfocast-23-analise-forense-computacional-ii)
 
 **8.1** Metadados
++ [📖 - O que são metadados [PT-BR]](https://ostec.blog/geral/metadados/)
 
 **8.2** File Carving
++ [📖 - Definição e uso de File Carving [EN]](https://resources.infosecinstitute.com/topic/file-carving/)
 
 **8.3** Magic Bytes
 
