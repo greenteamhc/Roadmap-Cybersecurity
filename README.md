@@ -108,6 +108,7 @@ Os conteúdos possuem as seguintes categorias:
 **4.2** Octal
 
 **4.3** ASCII
++ [🎥 - O que é o padrão ASCII [PT-BR]](https://youtu.be/rjBuymn8Gm8)
 
 **4.4** Hexadecimal
 
@@ -128,7 +129,6 @@ Os conteúdos possuem as seguintes categorias:
 
 **5.5** Criptografia moderna
 + [📖 - Tipos de criptografia [PT-BR]](http://www.bosontreinamentos.com.br/seguranca/criptografia-tipos-simetrica-assimetrica-e-funcoes-de-hash-02/)
-
 + [📖 - Encriptação simétrica e assimétrica [PT-BR / EN]](https://academy.binance.com/pt/articles/symmetric-vs-asymmetric-encryption)
 
 **5.5.1** Hashing
@@ -139,6 +139,8 @@ Os conteúdos possuem as seguintes categorias:
 **5.5.3** Cifras assimétricas
 
 **5.6** Criptoanálise
++ [🎥 - Introdução a criptoanálise [PT-BR]](https://youtu.be/SntpiDtFGqg)
++ [📖 - Sobre criptografar várias vezes [PT-BR]](https://medium.com/@kauan.m/por-que-criptografar-v%C3%A1rias-vezes-pode-ser-ruim-b3c16dc0baa0)
 
 **5.6.1** Análise de frequência
 
@@ -320,15 +322,18 @@ Os conteúdos possuem as seguintes categorias:
 + [🎥 - Introdução ao WireShark [PT-BR]](https://youtube.com/playlist?list=PLucm8g_ezqNoBnWA9vtlqQeY7Es9Hv3FY)
 
 **7.13** Firewall
-+ [🎥 - O que é um firewall](https://youtu.be/Qg7mhOXH7QY)
++ [🎥 - O que é um firewall [PT-BR]](https://youtu.be/Qg7mhOXH7QY)
 
 **7.14** WAF
 + [🎥 - O que é WAF [PT-BR]](https://youtu.be/WCHMa45M14E)
 + [📖 - O que é WAF [PT-BR]](https://www.oracle.com/br/security/cloud-security/what-is-waf/)
 
 **7.14** IDS / IPS
++ [🎥 - Fundamentos do IDS / IPS [PT-BR]](https://youtu.be/vh0hk7j1XRY)
++ [📖 - O que são e quais são as diferenças entre IDS / IPS [EN]](https://openvpn.net/blog/ids-ips/)
 
 **7.15** SIEM
++ [📖 - O que é o SIEM e por que é utilizado [PT-BR / EN]](https://www.ibm.com/br-pt/topics/siem)
 
 ### **8.** Forense Digital
 + [🎥 - O objetivo da forense digital [PT-BR]](https://youtu.be/WpewQxkjkkQ)
@@ -343,6 +348,7 @@ Os conteúdos possuem as seguintes categorias:
 **8.3** Magic Bytes
 
 **8.4** Esteganografia
++ [🎥 - Fundamentos da esteganografia [PT-BR]](https://youtu.be/F6qoIg17pKY)
 
 **8.4.1** Strings
 
@@ -387,8 +393,10 @@ Os conteúdos possuem as seguintes categorias:
 ### **10.** Engenharia Reversa
 
 **10.1** Arquitetura de computadores
++ [🎥 - Curso de hardware [PT-BR]](https://youtube.com/playlist?list=PLucm8g_ezqNrA8bbPdbsfgms_STyJgpX_)
 
 **10.1.1** Noções básicas de hardware
++ [🎥 - Conceitos de harware [PT-BR]](https://youtu.be/nG-s-PSoxD4)
 
 **10.1.2** Funcionamento de processadores
 
