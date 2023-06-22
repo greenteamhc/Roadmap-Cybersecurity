@@ -2,7 +2,7 @@
 
 Este é um guia de estudos que contém alguns assuntos e ferramentas que consideramos úteis para um melhor entendimento da área de cibersegurança.
 
-## Guia
+## Guia (imagem desatualizada)
 
 ![GuiaDeEstudos](https://github.com/greenteamhc/Roadmap-Cybersecurity/assets/97129518/d48f3a67-1525-408f-b738-792ccba58991)
 
@@ -171,6 +171,7 @@ Os conteúdos possuem as seguintes categorias:
 **6.3.3** Fedora Linux
 
 **6.4** VM (Virtual Machine)
++ [🎥 - Conceitos sobre Máquinas virtuais [PT-BR]](https://youtu.be/0t5HMbabeuo)
 
 **6.4.1** VirtualBox
 
@@ -411,6 +412,8 @@ Os conteúdos possuem as seguintes categorias:
 **10.4** Assembly
 
 ### **11.** Bancos de dados
++ [🎥 - Conceitos de bancos de dados [PT-BR]](https://youtu.be/xjH48f4uMtc)
++ [📖 - Bancos de dados relacionais e não-relacionais [PT-BR]](https://www.alura.com.br/artigos/sql-nosql-bancos-relacionais-nao-relacionais)
 
 **11.1** Bancos de dados relacionais
 
@@ -419,10 +422,16 @@ Os conteúdos possuem as seguintes categorias:
 **11.3** Arquitetura e instalação
 
 **11.4** SQL
++ [🎥 - O que é o SQL e características [PT-BR]](https://youtu.be/kMznyI7r2Tc)
++ [🎥 - O básico de SQL [PT-BR]](https://youtu.be/ncgEQBONI_w)
 
 **11.5** Comandos DML / DDL
++ [📖 - O que são comandos DML [PT-BR]](http://www.bosontreinamentos.com.br/bancos-de-dados/comandos-dml-sql-e-sua-sintaxe/)
++ [📖 - O que são comandos DDL [PT-BR]](http://www.bosontreinamentos.com.br/bancos-de-dados/comandos-ddl-sql-e-sua-sintaxe/)
 
 **11.6** SQL Injection
++ [🎥 - O que é SQL Injetction e algumas prevenções [PT-BR]](https://youtu.be/jN8QGOxdhvM)
++ [✍️ - Explicação com práticas de SQL injection [EN]](https://portswigger.net/web-security/sql-injection)
 
 ### **12.** DevOps
 
