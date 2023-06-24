@@ -82,12 +82,19 @@ Os conteúdos possuem as seguintes categorias:
 
 **3.2** Os 3 pilares
 
-**3.3** Leis de segurança de dados
+**3.3** Ética
+
+**3.3.1** Black, gray e white hats
++ [📖 - Tipos de hackers [EN]](https://www.avast.com/c-hacker-types)
+
+**3.3.3** Lei Carolina Dieckmann
++ [🎥 - O que são a Lei Carolina Dieckmann e o Marco Civil da Internet[PT-BR]](https://youtu.be/MTjqltNOv0Q)
 
 **3.3.1** LGPD
 + [🎙️ - Impacto da LGPD [PT-BR]](https://soundcloud.com/seginfocast/seginfocast-65-lgpd)
 
 **3.3.2** GDPR
+
 
 **3.4** CTF
 + [📖 - O que são CTFs [PT-BR]](https://acaditi.com.br/ctf/)
@@ -145,6 +152,7 @@ Os conteúdos possuem as seguintes categorias:
 **5.6.1** Análise de frequência
 
 **5.6.2** Bruteforce
++ [📖 - Ataques de força bruta [PT-BR / EN]](https://www.avast.com/pt-br/c-what-is-a-brute-force-attack)
 
 ### **6.** Linux
 
@@ -288,52 +296,57 @@ Os conteúdos possuem as seguintes categorias:
 **7.9** Cookies
 + [📖 - O que são e como funcionam os cookies [PT-BR]](https://www.alura.com.br/artigos/o-que-sao-cookies-como-funcionam?gclid=CjwKCAjw4ZWkBhA4EiwAVJXwqVFwnrxxbgXvc5sIg-9xCaaJ5aNsTdyBow4iLvbH0TWr46kEIKr36RoCXqQQAvD_BwE)
 
-**7.10** Navegadores
+**7.10** DoS e DDoS
++ [🎥 - O que são DoS e DDoS e quais suas características [PT-BR]](https://youtu.be/NRDHFUuzZkU)
++ [📖 - O que é DDoS e características [PT-BR / EN]](https://www.avast.com/pt-br/c-ddos)
+
+**7.11** Navegadores
 + [🎥 - Comparação de desempenho entre diferentes navegadores [PT-BR]](https://youtu.be/Jyv3Aj5oGsU)
 
-**7.10.1** DevTools
+**7.11.1** DevTools
 + [🎥 - Utilidade de algumas seções da DevTools [EN]](https://youtu.be/5mUUBkxayQ4)
 
-**7.10.2** Device Fingerprint
+**7.11.2** Device Fingerprint
 + [📖 - O que é fingerprinting [PT-BR / EN]](https://www.mozilla.org/pt-BR/firefox/features/block-fingerprinting/)
 + [🎥 - Como o browser/device fingerprint é utilizado no reconhecimento de usuários [EN]](https://youtu.be/YSUQUW_hzoM)
 
-**7.10.4** Firefox
+**7.11.4** Firefox
++ [🎥 - Características do Firefox e dicas [PT-BR]](https://youtu.be/_fG_ngC6dYY)
 
-**7.10.5** DuckDuckGO
+**7.11.5** DuckDuckGO
 
-**7.10.6** Tor
+**7.11.6** Tor
 + [🎥 - Tor, Deepweb e Darkweb [PT-BR]](https://youtu.be/JW4czyADb2s)
 + [🎥 - Desanonimação no Tor [EN]](https://youtu.be/v45_tkKCJ54)
 + [🎥 - Fingerprinting no Tor [PT-BR]](https://youtu.be/PbxBDDm2ZG0)
 
-**7.11** VPN
+**7.12** VPN
 + [🎥 - Segurança em VPNs [PT-BR]](https://youtu.be/IYUmw22_woA)
 
-**7.12** Ferramentas
+**7.13** Ferramentas
 
-**7.12.1** Nmap
+**7.13.1** Nmap
 + [🎥 - O que é o Nmap e aplicações [PT-BR]](https://youtu.be/wG9u-gd78KY)
 + [📖 - Documentação do Nmap [PT-BR]](https://nmap.org/book/man.html)
 
-**7.12.2** Burp Suite
+**7.13.2** Burp Suite
 + [🎥 - Uso do Burp Suite [EN]](https://www.youtube.com/watch?v=ouDe5sJ_uC8&list=PLoX0sUafNGbH9bmbIANk3D50FNUmuJIF3&pp=iAQB)
 
-**7.12.3** Wireshark
+**7.13.3** Wireshark
 + [🎥 - Introdução ao WireShark [PT-BR]](https://youtube.com/playlist?list=PLucm8g_ezqNoBnWA9vtlqQeY7Es9Hv3FY)
 
-**7.13** Firewall
+**7.14** Firewall
 + [🎥 - O que é um firewall [PT-BR]](https://youtu.be/Qg7mhOXH7QY)
 
-**7.14** WAF
+**7.15** WAF
 + [🎥 - O que é WAF [PT-BR]](https://youtu.be/WCHMa45M14E)
 + [📖 - O que é WAF [PT-BR]](https://www.oracle.com/br/security/cloud-security/what-is-waf/)
 
-**7.14** IDS / IPS
+**7.16** IDS / IPS
 + [🎥 - Fundamentos do IDS / IPS [PT-BR]](https://youtu.be/vh0hk7j1XRY)
 + [📖 - O que são e quais são as diferenças entre IDS / IPS [EN]](https://openvpn.net/blog/ids-ips/)
 
-**7.15** SIEM
+**7.17** SIEM
 + [📖 - O que é o SIEM e por que é utilizado [PT-BR / EN]](https://www.ibm.com/br-pt/topics/siem)
 
 ### **8.** Forense Digital
