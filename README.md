@@ -77,6 +77,7 @@ Os conteúdos possuem as seguintes categorias:
 
 ### **3.** InfoSec
 + [📖 - O que é InfoSec e características [PT-BR / EN]](https://www.microsoft.com/pt-br/security/business/security-101/what-is-information-security-infosec)
++ [📖 - Lista de plataformas para aprender e praticar hacking](https://medium.com/@kauan.m/60-plataformas-para-aprender-e-praticar-hacking-2023-c0c9ff3d5c3)
 
 **3.1** InfoSec X Cibersegurança
 
@@ -94,7 +95,6 @@ Os conteúdos possuem as seguintes categorias:
 + [🎙️ - Impacto da LGPD [PT-BR]](https://soundcloud.com/seginfocast/seginfocast-65-lgpd)
 
 **3.3.2** GDPR
-
 
 **3.4** CTF
 + [📖 - O que são CTFs [PT-BR]](https://acaditi.com.br/ctf/)
@@ -171,12 +171,14 @@ Os conteúdos possuem as seguintes categorias:
 **6.3** Distribuições
 + [🎥 - Características de distribuições Linux [PT-BR]](https://www.youtube.com/watch?v=unpJgmjTLEg)
 
-**6.3.1** Arch
+**6.3.1** Arch Linux
++ [🎥 - Análise do Arch Linux [PT-BR]](https://youtu.be/RovomGBvAR8)
 
 **6.3.2** Kali Linux
-+ [🎥 - Características do Kali Linux [PT-BR]](https://youtu.be/Ka8V-9YmSjE)
++ [🎥 - Características do Kali Linux [PT-BR]](https://youtu.be/ggVQNAcXok4)
 
 **6.3.3** Fedora Linux
++ [🎥 - Análise do Fedora Linux [PT-BR]](https://youtu.be/H04oqCvi8DA)
 
 **6.4** VM (Virtual Machine)
 + [🎥 - Conceitos sobre Máquinas virtuais [PT-BR]](https://youtu.be/0t5HMbabeuo)
@@ -314,6 +316,7 @@ Os conteúdos possuem as seguintes categorias:
 + [🎥 - Características do Firefox e dicas [PT-BR]](https://youtu.be/_fG_ngC6dYY)
 
 **7.11.5** DuckDuckGO
++ [🎥 - O que é o DuckDuckGO [PT-BR]](https://youtu.be/we9yeuJ7-c0)
 
 **7.11.6** Tor
 + [🎥 - Tor, Deepweb e Darkweb [PT-BR]](https://youtu.be/JW4czyADb2s)
@@ -376,14 +379,18 @@ Os conteúdos possuem as seguintes categorias:
 + [🎥 - Vulnerabilidades e segurança [PT-BR]](https://www.youtube.com/watch?v=wz1Ioqb89Jo)
 
 **9.1.1** OWASP
++ [🎥 - O que é a OWASP [PT-BR]](https://youtu.be/erwu5LsHJQc)
 
 **9.1.2** CVE
++ [📖 - O que é CVE](https://www.redhat.com/pt-br/topics/security/what-is-cve)
 
 **9.2** Sistemas de pontuação de vulnerabilidades
 
 **9.2.1** CVSS
++ [📖 - Sobre o CVSS [EN]](https://vulncheck.com/blog/cvss-accuracy-issues)
 
 **9.2.2** VPR
++ [📖 - O que é o VPR e no que se difere do CVSS [EN]](https://www.tenable.com/blog/what-is-vpr-and-how-is-it-different-from-cvss)
 
 **9.3** Exploit
 
@@ -398,7 +405,7 @@ Os conteúdos possuem as seguintes categorias:
 **9.5.1** Excalação de privilégios
 
 **9.5.2** Enumeração e descoberta
-+ [📖 - Enumeração na cibersegura [EN]](https://crashtest-security.com/enumeration-cyber-security/)
++ [📖 - Enumeração na cibersegurança [EN]](https://crashtest-security.com/enumeration-cyber-security/)
 
 **9.5.3** Movimento lateral (pivoting)
 
