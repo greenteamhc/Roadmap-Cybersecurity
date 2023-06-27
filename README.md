@@ -1,20 +1,20 @@
 # Roadmap-Cybersecurity 
 
-Este é um guia de estudos que contém alguns assuntos e ferramentas que consideramos úteis para um melhor entendimento da área de cibersegurança.
+Este é um guia de estudos que contém alguns assuntos e programas que consideramos úteis para um melhor entendimento da área de cibersegurança.
 
-## Guia (imagem desatualizada)
-
+## Guia
+Imagem desatualizada
 ![GuiaDeEstudos](https://github.com/greenteamhc/Roadmap-Cybersecurity/assets/97129518/d48f3a67-1525-408f-b738-792ccba58991)
 
 
-## Conteúdo
-Abaixo estão os tópicos do roadmap e algumas recomendações de conteúdos que você pode ou não utilizar. Sinta-se livre para estudar pelo conteúdo que achar melhor. Note que não há necessidade de ter cada programa citado no seu computador, como por exemplo as IDEs do tópico 1.4, mas será útil conhecer sobre elas ou outras para escolher a que mais te agrada. O mesmo vale para os assuntos citados, não há necessidade de dominar cada tópico citado, mas ter uma noção básica do que ele significa pode ser útil.
-
-Os conteúdos possuem as seguintes categorias:
-- 🎥 Vídeo
-- 📖 Texto
-- ✍️ Prática
-- 🎙️ Podcast
+<!-- ## Conteúdo -->
+>Abaixo estão os tópicos do roadmap e algumas recomendações de conteúdos que você pode ou não utilizar. Sinta-se livre para estudar pelo conteúdo que achar melhor. Note que não há necessidade de ter cada programa citado no seu computador, como por exemplo as IDEs do tópico 1.4, mas será útil conhecer sobre elas ou outras para escolher a que mais te agrada. O mesmo vale para os assuntos citados, não há necessidade de dominar cada tópico citado, mas ter uma noção básica do que ele significa pode ser útil.
+>
+>Os conteúdos possuem as seguintes categorias:
+>- 🎥 Vídeo
+>- 📖 Texto
+>- ✍️ Prática
+>- 🎙️ Podcast
 
 ## Seções
 ### **1.** Programação
@@ -56,6 +56,7 @@ Os conteúdos possuem as seguintes categorias:
     
 ### **2.** OSINT
 + [📖 - O que é OSINT [PT-BR]](https://blog.xpeducacao.com.br/open-source-intelligence/)
++ [🎥 - O que é OSINT [PT-BR]](https://youtu.be/n-BMW5dJlT4)
 + [✍️ - Exercícios de OSINT [EN]](https://gralhix.com/list-of-osint-exercises/)
 
 **2.1** Google Dorking
@@ -170,6 +171,7 @@ Os conteúdos possuem as seguintes categorias:
 
 **6.3** Distribuições
 + [🎥 - Características de distribuições Linux [PT-BR]](https://www.youtube.com/watch?v=unpJgmjTLEg)
++ [🎥 - Características de interfaces Linux e comparações](https://youtu.be/bHI7xK6bjHw)
 
 **6.3.1** Arch Linux
 + [🎥 - Análise do Arch Linux [PT-BR]](https://youtu.be/RovomGBvAR8)
@@ -213,18 +215,22 @@ Os conteúdos possuem as seguintes categorias:
 + [🎥 - O que é e para que serve o log [PT-BR]](https://youtu.be/BVqFpbFiV34)
 + [🎥 - Logs no Linux [PT-BR]](https://youtu.be/BVqFpbFiV34)
 
-**6.8** Permissões
+**6.8** Malware
++ [📖 - O que é um malware [PT-BR / EN]](https://www.avast.com/pt-br/c-malware)
++ [🎥 - Como um ransonware é utilizado [PT-BR]](https://youtu.be/zWAmutv21yw)
 
-**6.9** Shell
+**6.9** Permissões
+
+**6.10** Shell
 + [🎥 - O que é Shell [PT-BR]](https://youtu.be/zskFbzsZu8s)
 
-**6.9.1** Bash
+**6.10.1** Bash
 + [📖 - Bash para iniciantes [EN]](https://tldp.org/LDP/Bash-Beginners-Guide/html/index.html)
 + [📖 - Bash avançado [EN]](https://tldp.org/LDP/abs/html/index.html)
 
-**6.9.2** Ksh
+**6.10.2** Ksh
 
-**6.9.3** Csh
+**6.10.3** Csh
 
 <div align="right">
   <b><a href="#guia"> Voltar ao topo </a></b>
@@ -274,82 +280,97 @@ Os conteúdos possuem as seguintes categorias:
 
 **7.6** Ping
 
-**7.7** Dispositivos
+**7.7** Escopos de rede
++ [📖 - O que são escopos de rede [PT-BR]](http://www.bosontreinamentos.com.br/redes-computadores/escopos-de-redes-curso-de-redes-de-computadores/)
+
+**7.7.1** LAN
+
+**7.7.2** MAN
+
+**7.7.3** WAN
+
+**7.8** Dispositivos
 + [🎥 - Switch, Hub e Roteador [PT-BR]](https://youtu.be/BmBPhA5b-Lc)
 + [🎥 - Modem e Roteador [PT-BR]](https://youtu.be/feqhdXiG0d8)
 + [🎥 - Equipamentos de rede [PT-BR]](https://www.youtube.com/watch?v=u2LeXY07vrE)
 
-**7.7.1** Switch
+**7.8.1** Switch
 
-**7.7.2** Hub
+**7.8.2** Hub
 
-**7.7.3** Roteador
+**7.8.3** Roteador
 
-**7.7.4** Modem
+**7.8.4** Modem
 
-**7.8** DNS
+**7.9** DNS
 + [🎥 - O que é o DNS [PT-BR]](https://youtu.be/i4KMcl0tuEg)
 
-**7.8.1** Hierarquia de domínios
+**7.9.1** Hierarquia de domínios
 
-**7.8.2** Tipos de registro
+**7.9.2** Tipos de registro
 + [📖 - Registros de DNS [PT-BR]](https://ayltoninacio.com.br/blog/tipos-de-registros-dns)
 
-**7.9** Cookies
+**7.10** Subdomain Takeover
++ [🎥 - Conceitos para subdomain takeover [PT-BR]](https://youtu.be/u_nXZ4YRcto)
+
+**7.11** Cookies
 + [📖 - O que são e como funcionam os cookies [PT-BR]](https://www.alura.com.br/artigos/o-que-sao-cookies-como-funcionam?gclid=CjwKCAjw4ZWkBhA4EiwAVJXwqVFwnrxxbgXvc5sIg-9xCaaJ5aNsTdyBow4iLvbH0TWr46kEIKr36RoCXqQQAvD_BwE)
 
-**7.10** DoS e DDoS
+**7.12** IoT
++ [📖 - O que é IoT [PT-BR / EN]](https://www.redhat.com/pt-br/topics/internet-of-things/what-is-iot)
+
+**7.13** DoS e DDoS
 + [🎥 - O que são DoS e DDoS e quais suas características [PT-BR]](https://youtu.be/NRDHFUuzZkU)
 + [📖 - O que é DDoS e características [PT-BR / EN]](https://www.avast.com/pt-br/c-ddos)
 
-**7.11** Navegadores
+**7.14** Navegadores
 + [🎥 - Comparação de desempenho entre diferentes navegadores [PT-BR]](https://youtu.be/Jyv3Aj5oGsU)
 
-**7.11.1** DevTools
+**7.14.1** DevTools
 + [🎥 - Utilidade de algumas seções da DevTools [EN]](https://youtu.be/5mUUBkxayQ4)
 
-**7.11.2** Device Fingerprint
+**7.14.2** Device Fingerprint
 + [📖 - O que é fingerprinting [PT-BR / EN]](https://www.mozilla.org/pt-BR/firefox/features/block-fingerprinting/)
 + [🎥 - Como o browser/device fingerprint é utilizado no reconhecimento de usuários [EN]](https://youtu.be/YSUQUW_hzoM)
 
-**7.11.4** Firefox
+**7.14.4** Firefox
 + [🎥 - Características do Firefox e dicas [PT-BR]](https://youtu.be/_fG_ngC6dYY)
 
-**7.11.5** DuckDuckGO
+**7.14.5** DuckDuckGO
 + [🎥 - O que é o DuckDuckGO [PT-BR]](https://youtu.be/we9yeuJ7-c0)
 
-**7.11.6** Tor
+**7.14.6** Tor
 + [🎥 - Tor, Deepweb e Darkweb [PT-BR]](https://youtu.be/JW4czyADb2s)
 + [🎥 - Desanonimação no Tor [EN]](https://youtu.be/v45_tkKCJ54)
 + [🎥 - Fingerprinting no Tor [PT-BR]](https://youtu.be/PbxBDDm2ZG0)
 
-**7.12** VPN
+**7.15** VPN
 + [🎥 - Segurança em VPNs [PT-BR]](https://youtu.be/IYUmw22_woA)
 
-**7.13** Ferramentas
+**7.16** Ferramentas
 
-**7.13.1** Nmap
+**7.16.1** Nmap
 + [🎥 - O que é o Nmap e aplicações [PT-BR]](https://youtu.be/wG9u-gd78KY)
 + [📖 - Documentação do Nmap [PT-BR]](https://nmap.org/book/man.html)
 
-**7.13.2** Burp Suite
+**7.16.2** Burp Suite
 + [🎥 - Uso do Burp Suite [EN]](https://www.youtube.com/watch?v=ouDe5sJ_uC8&list=PLoX0sUafNGbH9bmbIANk3D50FNUmuJIF3&pp=iAQB)
 
-**7.13.3** Wireshark
+**7.16.3** Wireshark
 + [🎥 - Introdução ao WireShark [PT-BR]](https://youtube.com/playlist?list=PLucm8g_ezqNoBnWA9vtlqQeY7Es9Hv3FY)
 
-**7.14** Firewall
+**7.17** Firewall
 + [🎥 - O que é um firewall [PT-BR]](https://youtu.be/Qg7mhOXH7QY)
 
-**7.15** WAF
+**7.18** WAF
 + [🎥 - O que é WAF [PT-BR]](https://youtu.be/WCHMa45M14E)
 + [📖 - O que é WAF [PT-BR]](https://www.oracle.com/br/security/cloud-security/what-is-waf/)
 
-**7.16** IDS / IPS
+**7.19** IDS / IPS
 + [🎥 - Fundamentos do IDS / IPS [PT-BR]](https://youtu.be/vh0hk7j1XRY)
 + [📖 - O que são e quais são as diferenças entre IDS / IPS [EN]](https://openvpn.net/blog/ids-ips/)
 
-**7.17** SIEM
+**7.20** SIEM
 + [📖 - O que é o SIEM e por que é utilizado [PT-BR / EN]](https://www.ibm.com/br-pt/topics/siem)
 
 ### **8.** Forense Digital
@@ -380,9 +401,10 @@ Os conteúdos possuem as seguintes categorias:
 
 **9.1.1** OWASP
 + [🎥 - O que é a OWASP [PT-BR]](https://youtu.be/erwu5LsHJQc)
++ [📖 - OWASP top 10 [PT-BR / EN]](https://owasp.org/Top10/pt_BR/)
 
 **9.1.2** CVE
-+ [📖 - O que é CVE](https://www.redhat.com/pt-br/topics/security/what-is-cve)
++ [📖 - O que é CVE [PT-br / EN]](https://www.redhat.com/pt-br/topics/security/what-is-cve)
 
 **9.2** Sistemas de pontuação de vulnerabilidades
 
@@ -400,7 +422,8 @@ Os conteúdos possuem as seguintes categorias:
 
 **9.4.2** NVE
 
-**9.5** Post-exploitation
+**9.5** Post-Exploitation
++ [🎥 - Sobre o post-exploitation [PT-BR]](https://youtu.be/Pg5EMYRuIi0)
 
 **9.5.1** Excalação de privilégios
 
@@ -450,7 +473,7 @@ Os conteúdos possuem as seguintes categorias:
 + [📖 - O que são comandos DDL [PT-BR]](http://www.bosontreinamentos.com.br/bancos-de-dados/comandos-ddl-sql-e-sua-sintaxe/)
 
 **11.6** SQL Injection
-+ [🎥 - O que é SQL Injetction e algumas prevenções [PT-BR]](https://youtu.be/jN8QGOxdhvM)
++ [🎥 - O que é SQL Injection e algumas prevenções [PT-BR]](https://youtu.be/jN8QGOxdhvM)
 + [✍️ - Explicação com práticas de SQL injection [EN]](https://portswigger.net/web-security/sql-injection)
 
 ### **12.** DevOps
