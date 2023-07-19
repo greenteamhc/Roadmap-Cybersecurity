@@ -2,8 +2,8 @@
 
 Este é um guia de estudos que contém alguns assuntos e programas que consideramos úteis para um melhor entendimento da área de cibersegurança.
 
-<!-- ## Guia
-![GuiaDeEstudos](https://github.com/greenteamhc/Roadmap-Cybersecurity/assets/97129518/fa7bb23e-03ca-4d90-8c93-04b86601b578) -->
+## Guia
+![GuiaDeEstudos](https://github.com/greenteamhc/Roadmap-Cybersecurity/assets/97129518/fa7bb23e-03ca-4d90-8c93-04b86601b578)
 
 
 ## Seções
