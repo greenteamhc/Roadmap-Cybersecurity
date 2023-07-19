@@ -2,12 +2,11 @@
 
 Este é um guia de estudos que contém alguns assuntos e programas que consideramos úteis para um melhor entendimento da área de cibersegurança.
 
-## Guia
-Imagem desatualizada
-![GuiaDeEstudos](https://github.com/greenteamhc/Roadmap-Cybersecurity/assets/97129518/d48f3a67-1525-408f-b738-792ccba58991)
+<!-- ## Guia
+![GuiaDeEstudos](https://github.com/greenteamhc/Roadmap-Cybersecurity/assets/97129518/fa7bb23e-03ca-4d90-8c93-04b86601b578) -->
 
 
-<!-- ## Conteúdo -->
+## Seções
 >Abaixo estão os tópicos do roadmap e algumas recomendações de conteúdos que você pode ou não utilizar. Sinta-se livre para estudar pelo conteúdo que achar melhor. Note que não há necessidade de ter cada programa citado no seu computador, como por exemplo as IDEs do tópico 1.4, mas será útil conhecer sobre elas ou outras para escolher a que mais te agrada. O mesmo vale para os assuntos citados, não há necessidade de dominar cada tópico citado, mas ter uma noção básica do que ele significa pode ser útil.
 >
 >Os conteúdos possuem as seguintes categorias:
@@ -16,7 +15,7 @@ Imagem desatualizada
 >- ✍️ Prática
 >- 🎙️ Podcast
 
-## Seções
+
 ### **1.** Programação
 + [🎥 - Sobre começar a programar [PT-BR]](https://www.youtube.com/watch?v=BTENKdRVS2U)
 + [🎥 - Funcionamento de linguagens de programação [PT-BR]](https://www.youtube.com/watch?v=22nd99SLgNA)
@@ -78,7 +77,7 @@ Imagem desatualizada
 
 ### **3.** InfoSec
 + [📖 - O que é InfoSec e características [PT-BR / EN]](https://www.microsoft.com/pt-br/security/business/security-101/what-is-information-security-infosec)
-+ [📖 - Lista de plataformas para aprender e praticar hacking](https://medium.com/@kauan.m/60-plataformas-para-aprender-e-praticar-hacking-2023-c0c9ff3d5c3)
++ [📖 - Lista de plataformas para aprender e praticar hacking [PT-BR]](https://medium.com/@kauan.m/60-plataformas-para-aprender-e-praticar-hacking-2023-c0c9ff3d5c3)
 
 **3.1** InfoSec X Cibersegurança
 
@@ -90,7 +89,7 @@ Imagem desatualizada
 + [📖 - Tipos de hackers [EN]](https://www.avast.com/c-hacker-types)
 
 **3.3.3** Lei Carolina Dieckmann
-+ [🎥 - O que são a Lei Carolina Dieckmann e o Marco Civil da Internet[PT-BR]](https://youtu.be/MTjqltNOv0Q)
++ [🎥 - O que são a Lei Carolina Dieckmann e o Marco Civil da Internet [PT-BR]](https://youtu.be/MTjqltNOv0Q)
 
 **3.3.1** LGPD
 + [🎙️ - Impacto da LGPD [PT-BR]](https://soundcloud.com/seginfocast/seginfocast-65-lgpd)
@@ -171,7 +170,7 @@ Imagem desatualizada
 
 **6.3** Distribuições
 + [🎥 - Características de distribuições Linux [PT-BR]](https://www.youtube.com/watch?v=unpJgmjTLEg)
-+ [🎥 - Características de interfaces Linux e comparações](https://youtu.be/bHI7xK6bjHw)
++ [🎥 - Características de interfaces Linux e comparações [PT-BR]](https://youtu.be/bHI7xK6bjHw)
 
 **6.3.1** Arch Linux
 + [🎥 - Análise do Arch Linux [PT-BR]](https://youtu.be/RovomGBvAR8)
