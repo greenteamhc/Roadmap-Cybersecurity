@@ -5,8 +5,21 @@ Este é um guia de estudos que contém alguns assuntos e programas que considera
 ## Guia
 ![GuiaDeEstudos](https://github.com/greenteamhc/Roadmap-Cybersecurity/assets/97129518/fa7bb23e-03ca-4d90-8c93-04b86601b578)
 
-
 ## Seções
+
+<b><a href="#1-programação"> Programação |</a></b>
+<b><a href="#2-osint"> OSINT |</a></b>
+<b><a href="#3-infosec"> InfoSec |</a></b>
+<b><a href="#4-codificação"> Codificação |</a></b>
+<b><a href="#5-criptografia"> Criptografia |</a></b>
+<b><a href="#6-linux"> Linux |</a></b>
+<b><a href="#7-redes"> Redes |</a></b>
+<b><a href="#8-forense-digital"> Forense Digital |</a></b>
+<b><a href="#9-pwning"> Pwning |</a></b>
+<b><a href="#10-engenharia-reversa"> Engenharia Reversa |</a></b>
+<b><a href="#11-bancos-de-dados"> Bancos de dados |</a></b>
+<b><a href="#12-devops"> DevOps </a></b>
+
 >Abaixo estão os tópicos do roadmap e algumas recomendações de conteúdos que você pode ou não utilizar. Sinta-se livre para estudar pelo conteúdo que achar melhor. Note que não há necessidade de ter cada programa citado no seu computador, como por exemplo as IDEs do tópico 1.4, mas será útil conhecer sobre elas ou outras para escolher a que mais te agrada. O mesmo vale para os assuntos citados, não há necessidade de dominar cada tópico citado, mas ter uma noção básica do que ele significa pode ser útil.
 >
 >Os conteúdos possuem as seguintes categorias:
@@ -14,7 +27,6 @@ Este é um guia de estudos que contém alguns assuntos e programas que considera
 >- 📖 Texto
 >- ✍️ Prática
 >- 🎙️ Podcast
-
 
 ### **1.** Programação
 + [🎥 - Sobre começar a programar [PT-BR]](https://www.youtube.com/watch?v=BTENKdRVS2U)
