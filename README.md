@@ -460,8 +460,12 @@ Este é um guia de estudos que contém alguns assuntos e programas que considera
 **10.1.4** Arquitetura de processadores
 
 **10.2** Linguagem de máquina
+[📖 - O que é linguagem de máquina e Assembly [EN]](https://www.lenovo.com/us/en/glossary/machine-language/?orgRef=https%253A%252F%252Fwww.google.com%252F)
 
 **10.3** Linguagem de programação
+[🎥 - Sobre a linguagem C [PT-BR]](https://youtu.be/6mUCcsnCn08?si=sn9q0AZOmm-ZKD2L)
+[🎥 - Conceitos para a linguagem C [PT-BR]](https://youtu.be/Gp2m8ZuXoPg?si=2KlInXDSXVb27C8u)
+[📖 - Introdução à linguagem C [EN]](https://www.programiz.com/c-programming)
 
 **10.4** Assembly
 
@@ -490,6 +494,7 @@ Este é um guia de estudos que contém alguns assuntos e programas que considera
 ### **12.** DevOps
 
 **12.1** Cloud
++ [🎥 - O que é cloud computing [PT-BR]](https://youtu.be/97l0Ahu2efE?si=VeZw6MlrrjB0kFyR)
 
 **12.2** Containers
 
