@@ -463,9 +463,9 @@ Este é um guia de estudos que contém alguns assuntos e programas que considera
 [📖 - O que é linguagem de máquina e Assembly [EN]](https://www.lenovo.com/us/en/glossary/machine-language/?orgRef=https%253A%252F%252Fwww.google.com%252F)
 
 **10.3** Linguagem de programação
-[🎥 - Sobre a linguagem C [PT-BR]](https://youtu.be/6mUCcsnCn08?si=sn9q0AZOmm-ZKD2L)
-[🎥 - Conceitos para a linguagem C [PT-BR]](https://youtu.be/Gp2m8ZuXoPg?si=2KlInXDSXVb27C8u)
-[📖 - Introdução à linguagem C [EN]](https://www.programiz.com/c-programming)
++ [🎥 - Sobre a linguagem C [PT-BR]](https://youtu.be/6mUCcsnCn08?si=sn9q0AZOmm-ZKD2L)
++ [🎥 - Conceitos para a linguagem C [PT-BR]](https://youtu.be/Gp2m8ZuXoPg?si=2KlInXDSXVb27C8u)
++ [📖 - Introdução à linguagem C [EN]](https://www.programiz.com/c-programming)
 
 **10.4** Assembly
 
@@ -492,13 +492,16 @@ Este é um guia de estudos que contém alguns assuntos e programas que considera
 + [✍️ - Explicação com práticas de SQL injection [EN]](https://portswigger.net/web-security/sql-injection)
 
 ### **12.** DevOps
++ [🎥 - Uso básico do Docker [PT-BR]](https://youtu.be/umwm2SJZygg?si=7qr4-QI6_a-eAD-l)
 
 **12.1** Cloud
 + [🎥 - O que é cloud computing [PT-BR]](https://youtu.be/97l0Ahu2efE?si=VeZw6MlrrjB0kFyR)
 
 **12.2** Containers
++ [🎥 - O que são containers [PT-BR]](https://youtu.be/-pUZBovqRcU?si=riZHuPVArqR1npjt)
 
 **12.3** Kubernets
++ [🎥 - O que são kubernets [PT-BR]](https://youtu.be/mVL0nOM3AGo?si=NLiGLZsT6SAfVKzP)
 
 <div align="right">
   <b><a href="#guia"> Voltar ao topo </a></b>
