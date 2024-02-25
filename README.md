@@ -28,10 +28,12 @@ Este é um guia de estudos que contém alguns assuntos e programas que considera
 >- ✍️ Prática
 >- 🎙️ Podcast
 
-### **1.** Programação
-+ [🎥 - Sobre começar a programar [PT-BR]](https://www.youtube.com/watch?v=BTENKdRVS2U)
-+ [🎥 - Funcionamento de linguagens de programação [PT-BR]](https://www.youtube.com/watch?v=22nd99SLgNA)
-+ [✍️ - Desafios de código [EN]](https://projecteuler.net/)
+## **1.** Programação
+[🎥 - Sobre começar a programar [PT-BR]](https://www.youtube.com/watch?v=BTENKdRVS2U)
+\
+[🎥 - Funcionamento de linguagens de programação [PT-BR]](https://www.youtube.com/watch?v=22nd99SLgNA)
+\
+[✍️ - Desafios de código [EN]](https://projecteuler.net/)
 
 **1.1** Lógica de programação
 
@@ -65,10 +67,12 @@ Este é um guia de estudos que contém alguns assuntos e programas que considera
 **1.5.5** GIT
 
     
-### **2.** OSINT
-+ [📖 - O que é OSINT [PT-BR]](https://blog.xpeducacao.com.br/open-source-intelligence/)
-+ [🎥 - O que é OSINT [PT-BR]](https://youtu.be/n-BMW5dJlT4)
-+ [✍️ - Exercícios de OSINT [EN]](https://gralhix.com/list-of-osint-exercises/)
+## **2.** OSINT
+[📖 - O que é OSINT [PT-BR]](https://blog.xpeducacao.com.br/open-source-intelligence/)
+\
+[🎥 - O que é OSINT [PT-BR]](https://youtu.be/n-BMW5dJlT4)
+\
+[✍️ - Exercícios de OSINT [EN]](https://gralhix.com/list-of-osint-exercises/)
 
 **2.1** Google Dorking
 + [📖 - O que é Google Dorking e parâmetros [PT-BR]](https://www.avg.com/pt/signal/google-dorks)
@@ -87,9 +91,10 @@ Este é um guia de estudos que contém alguns assuntos e programas que considera
 **2.6** Maltego
 + [📖 - O que é o Maltego [PT-BR]](https://rootsec.com.br/maltego-a-poderosa-ferramenta-de-coletar-informacoes/)
 
-### **3.** InfoSec
-+ [📖 - O que é InfoSec e características [PT-BR / EN]](https://www.microsoft.com/pt-br/security/business/security-101/what-is-information-security-infosec)
-+ [📖 - Lista de plataformas para aprender e praticar hacking [PT-BR]](https://medium.com/@kauan.m/60-plataformas-para-aprender-e-praticar-hacking-2023-c0c9ff3d5c3)
+## **3.** InfoSec
+[📖 - O que é InfoSec e características [PT-BR / EN]](https://www.microsoft.com/pt-br/security/business/security-101/what-is-information-security-infosec)
+\
+[📖 - Lista de plataformas para aprender e praticar hacking [PT-BR]](https://medium.com/@kauan.m/60-plataformas-para-aprender-e-praticar-hacking-2023-c0c9ff3d5c3)
 
 **3.1** InfoSec X Cibersegurança
 
@@ -119,7 +124,7 @@ Este é um guia de estudos que contém alguns assuntos e programas que considera
 
 **3.7** Purple Team
 
-### **4.** Codificação
+## **4.** Codificação
 
 **4.1** Binário
 + [🎥 - Bits e bytes [PT-BR]](https://www.youtube.com/watch?v=dp9ynjJamoI)
@@ -133,10 +138,12 @@ Este é um guia de estudos que contém alguns assuntos e programas que considera
 
 **4.5** Base 64
 
-### **5.** Criptografia
-+ [🎥 - Informações sobre criptografia [PT-BR]](https://www.youtube.com/watch?v=qHFbuXpz7e4)
-+ [🎥 - Conceitos sobre criptografia [PT-BR]](https://www.youtube.com/watch?v=CcU5Kc_FN_4)
-+ [✍️ - Desafios de criptografia [EN]](https://cryptohack.org/)
+## **5.** Criptografia
+[🎥 - Informações sobre criptografia [PT-BR]](https://www.youtube.com/watch?v=qHFbuXpz7e4)
+\
+[🎥 - Conceitos sobre criptografia [PT-BR]](https://www.youtube.com/watch?v=CcU5Kc_FN_4)
+\
+[✍️ - Desafios de criptografia [EN]](https://cryptohack.org/)
 
 **5.1** Cifra de César
 
@@ -166,7 +173,7 @@ Este é um guia de estudos que contém alguns assuntos e programas que considera
 **5.6.2** Bruteforce
 + [📖 - Ataques de força bruta [PT-BR / EN]](https://www.avast.com/pt-br/c-what-is-a-brute-force-attack)
 
-### **6.** Linux
+## **6.** Linux
 
 **6.1** Movimento Software Livre
 + [🎥 - Software livre X Código aberto [PT-BT]](https://www.youtube.com/watch?v=N0NNnq0Wyww) 
@@ -247,7 +254,7 @@ Este é um guia de estudos que contém alguns assuntos e programas que considera
   <b><a href="#guia"> Voltar ao topo </a></b>
 </div>
 
-### **7.** Redes
+## **7.** Redes
 **7.1** Topologia
 + [📖 - O que são topologias de rede [PT-BR]](https://blog.xpeducacao.com.br/topologias-de-rede/)
 
@@ -384,9 +391,10 @@ Este é um guia de estudos que contém alguns assuntos e programas que considera
 **7.20** SIEM
 + [📖 - O que é o SIEM e por que é utilizado [PT-BR / EN]](https://www.ibm.com/br-pt/topics/siem)
 
-### **8.** Forense Digital
-+ [🎥 - O objetivo da forense digital [PT-BR]](https://youtu.be/WpewQxkjkkQ)
-+ [🎙️ - Aspectos da forense computacional [PT-BR]](https://soundcloud.com/seginfocast/seginfocast-23-analise-forense-computacional-ii)
+## **8.** Forense Digital
+[🎥 - O objetivo da forense digital [PT-BR]](https://youtu.be/WpewQxkjkkQ)
+\
+[🎙️ - Aspectos da forense computacional [PT-BR]](https://soundcloud.com/seginfocast/seginfocast-23-analise-forense-computacional-ii)
 
 **8.1** Metadados
 + [📖 - O que são metadados [PT-BR]](https://ostec.blog/geral/metadados/)
@@ -405,7 +413,7 @@ Este é um guia de estudos que contém alguns assuntos e programas que considera
 
 **8.4.3** Zsteg
 
-### **9.** Pwning
+## **9.** Pwning
 
 **9.1** Vulnerabilidades
 + [🎥 - Vulnerabilidades e segurança [PT-BR]](https://www.youtube.com/watch?v=wz1Ioqb89Jo)
@@ -445,7 +453,7 @@ Este é um guia de estudos que contém alguns assuntos e programas que considera
 
 **9.5.4** Exfiltração de dados
 
-### **10.** Engenharia Reversa
+## **10.** Engenharia Reversa
 
 **10.1** Arquitetura de computadores
 + [🎥 - Curso de hardware [PT-BR]](https://youtube.com/playlist?list=PLucm8g_ezqNrA8bbPdbsfgms_STyJgpX_)
@@ -460,7 +468,7 @@ Este é um guia de estudos que contém alguns assuntos e programas que considera
 **10.1.4** Arquitetura de processadores
 
 **10.2** Linguagem de máquina
-[📖 - O que é linguagem de máquina e Assembly [EN]](https://www.lenovo.com/us/en/glossary/machine-language/?orgRef=https%253A%252F%252Fwww.google.com%252F)
++ [📖 - O que é linguagem de máquina e Assembly [EN]](https://www.lenovo.com/us/en/glossary/machine-language/?orgRef=https%253A%252F%252Fwww.google.com%252F)
 
 **10.3** Linguagem de programação
 + [🎥 - Sobre a linguagem C [PT-BR]](https://youtu.be/6mUCcsnCn08?si=sn9q0AZOmm-ZKD2L)
@@ -468,10 +476,12 @@ Este é um guia de estudos que contém alguns assuntos e programas que considera
 + [📖 - Introdução à linguagem C [EN]](https://www.programiz.com/c-programming)
 
 **10.4** Assembly
++ [🎥 - Fundamentos do Assembly [PT-BR]](https://youtube.com/playlist?list=PLXoSGejyuQGohd0arC7jRBqVdQqf5GqKJ&si=mOjGFERsij1YHFDt)
 
-### **11.** Bancos de dados
-+ [🎥 - Conceitos de bancos de dados [PT-BR]](https://youtu.be/xjH48f4uMtc)
-+ [📖 - Bancos de dados relacionais e não-relacionais [PT-BR]](https://www.alura.com.br/artigos/sql-nosql-bancos-relacionais-nao-relacionais)
+## **11.** Bancos de dados
+[🎥 - Conceitos de bancos de dados [PT-BR]](https://youtu.be/xjH48f4uMtc)
+\
+[📖 - Bancos de dados relacionais e não-relacionais [PT-BR]](https://www.alura.com.br/artigos/sql-nosql-bancos-relacionais-nao-relacionais)
 
 **11.1** Bancos de dados relacionais
 
@@ -491,8 +501,10 @@ Este é um guia de estudos que contém alguns assuntos e programas que considera
 + [🎥 - O que é SQL Injection e algumas prevenções [PT-BR]](https://youtu.be/jN8QGOxdhvM)
 + [✍️ - Explicação com práticas de SQL injection [EN]](https://portswigger.net/web-security/sql-injection)
 
-### **12.** DevOps
-+ [🎥 - Uso básico do Docker [PT-BR]](https://youtu.be/umwm2SJZygg?si=7qr4-QI6_a-eAD-l)
+## **12.** DevOps
+[🎥 - Sobre devops [PT-BR]](https://youtu.be/iwf6kcvxeD4?si=9sSYHkMG8pXOLJGe)
+\
+[🎥 - Uso básico do Docker [PT-BR]](https://youtu.be/umwm2SJZygg?si=7qr4-QI6_a-eAD-l)
 
 **12.1** Cloud
 + [🎥 - O que é cloud computing [PT-BR]](https://youtu.be/97l0Ahu2efE?si=VeZw6MlrrjB0kFyR)
