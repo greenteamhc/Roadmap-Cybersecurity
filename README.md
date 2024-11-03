@@ -29,9 +29,9 @@ Este é um guia de estudos que contém alguns assuntos e programas que considera
 >- 🎙️ Podcast
 
 ## **1.** Programação
-[🎥 - Sobre começar a programar [PT-BR]](https://www.youtube.com/watch?v=BTENKdRVS2U)
+[🎥 - Sobre começar a programar [PT-BR]](https://youtu.be/BTENKdRVS2U)
 \
-[🎥 - Funcionamento de linguagens de programação [PT-BR]](https://www.youtube.com/watch?v=22nd99SLgNA)
+[🎥 - Funcionamento de linguagens de programação [PT-BR]](https://youtu.be/22nd99SLgNA)
 \
 [✍️ - Desafios de código [EN]](https://projecteuler.net/)
 
@@ -41,11 +41,11 @@ Este é um guia de estudos que contém alguns assuntos e programas que considera
 + [✍️ - Aprendizado gameficado de digitação [PT-BR / EN]](https://www.typingclub.com/)
 
 **1.3** Python
-+ [📖 - Documentação do Python [EN]](https://www.youtube.com/watch?v=uOgDa1rlqjE)
-+ [🎥 - Sobre Python [PT-BR]](https://www.youtube.com/watch?v=uOgDa1rlqjE)
++ [📖 - Documentação do Python [EN]](https://docs.python.org/3/)
++ [🎥 - Sobre Python [PT-BR]](https://youtu.be/uOgDa1rlqjE)
 
 **1.4** IDEs
-+ [🎥 - IDEs e Editores de texto para Python [PT-BR]](https://www.youtube.com/watch?v=J8YDxYviL_A)
++ [🎥 - IDEs e Editores de texto para Python [PT-BR]](https://youtu.be/J8YDxYviL_A)
 
 **1.4.1** VSCode
 
@@ -54,7 +54,7 @@ Este é um guia de estudos que contém alguns assuntos e programas que considera
 **1.4.3** PyCharm
 
 **1.5** GitHub
-+ [🎥 - O que é GIT e GitHub [PT-BR]](https://www.youtube.com/watch?v=P4BNi_yPehc)
++ [🎥 - O que é GIT e GitHub [PT-BR]](https://youtu.be/P4BNi_yPehc)
 
 **1.5.1** Repositórios
 
@@ -66,7 +66,7 @@ Este é um guia de estudos que contém alguns assuntos e programas que considera
 
 **1.5.5** GIT
 
-    
+
 ## **2.** OSINT
 [📖 - O que é OSINT [PT-BR]](https://blog.xpeducacao.com.br/open-source-intelligence/)
 \
@@ -80,10 +80,10 @@ Este é um guia de estudos que contém alguns assuntos e programas que considera
 
 **2.2** Engenharia Social
 + [📖 - O que é engenharia social e aplicações [PT-BR]](https://ahrefs.com/blog/google-advanced-search-operators/)
-+ [🎥 - O que é engenharia social e aplicações [PT-BR]](https://www.youtube.com/watch?v=NI_Kdo443es)
++ [🎥 - O que é engenharia social e aplicações [PT-BR]](https://youtu.be/NI_Kdo443es)
 
 **2.4** Sock Puppet
-+ [🎥 - Criação de sock puppets [EN]](https://www.youtube.com/watch?v=E5wJEGyiPPk)
++ [🎥 - Criação de sock puppets [EN]](https://youtu.be/E5wJEGyiPPk)
 
 **2.5** Shodan
 + [📖 - O que é o Shodan [PT-BR]](https://www.hardware.com.br/artigos/shodan-mecanismo-de-busca-mostra-dispositivos-conectados/)
@@ -115,7 +115,7 @@ Este é um guia de estudos que contém alguns assuntos e programas que considera
 
 **3.4** CTF
 + [📖 - O que são CTFs [PT-BR]](https://acaditi.com.br/ctf/)
-+ [🎥 - Como o aprendizado de cibersegurança pode se tornar mais agradável [EN]](https://www.youtube.com/watch?v=6vj96QetfTg)
++ [🎥 - Como o aprendizado de cibersegurança pode se tornar mais agradável [EN]](https://youtu.be/6vj96QetfTg)
 
 **3.5** Red Team
 + [📖 - Os 3 times de cibersegurança [PT-BR / EN]](https://www.berghem.com.br/pt/servicos/blue-red-and-purple-teams/)
@@ -127,7 +127,7 @@ Este é um guia de estudos que contém alguns assuntos e programas que considera
 ## **4.** Codificação
 
 **4.1** Binário
-+ [🎥 - Bits e bytes [PT-BR]](https://www.youtube.com/watch?v=dp9ynjJamoI)
++ [🎥 - Bits e bytes [PT-BR]](https://youtu.be/dp9ynjJamoI)
 
 **4.2** Octal
 
@@ -139,9 +139,9 @@ Este é um guia de estudos que contém alguns assuntos e programas que considera
 **4.5** Base 64
 
 ## **5.** Criptografia
-[🎥 - Informações sobre criptografia [PT-BR]](https://www.youtube.com/watch?v=qHFbuXpz7e4)
+[🎥 - Informações sobre criptografia [PT-BR]](https://youtu.be/qHFbuXpz7e4)
 \
-[🎥 - Conceitos sobre criptografia [PT-BR]](https://www.youtube.com/watch?v=CcU5Kc_FN_4)
+[🎥 - Conceitos sobre criptografia [PT-BR]](https://youtu.be/CcU5Kc_FN_4)
 \
 [✍️ - Desafios de criptografia [EN]](https://cryptohack.org/)
 
@@ -176,19 +176,19 @@ Este é um guia de estudos que contém alguns assuntos e programas que considera
 ## **6.** Linux
 
 **6.1** Movimento Software Livre
-+ [🎥 - Software livre X Código aberto [PT-BT]](https://www.youtube.com/watch?v=N0NNnq0Wyww) 
-+ [🎥 - Licenças de software [PT-BR]](https://www.youtube.com/watch?v=fPfzp6ov2bQ)
++ [🎥 - Software livre X Código aberto [PT-BT]](https://youtu.be/N0NNnq0Wyww) 
++ [🎥 - Licenças de software [PT-BR]](https://youtu.be/fPfzp6ov2bQ)
 
 **6.1.1** Linus Torvald
 
 **6.1.2** Richard Stalman
 
 **6.2** Sistemas Operacionais
-+ [🎥 - Conceito de sistema operacional [PT-BR]](https://www.youtube.com/watch?v=CCHZ_06DoEA)
-+ [🎥 - Sistemas operacionais [PT-BR]](https://www.youtube.com/watch?v=brIQSA8FtDo)
++ [🎥 - Conceito de sistema operacional [PT-BR]](https://youtu.be/CCHZ_06DoEA)
++ [🎥 - Sistemas operacionais [PT-BR]](https://youtu.be/brIQSA8FtDo)
 
 **6.3** Distribuições
-+ [🎥 - Características de distribuições Linux [PT-BR]](https://www.youtube.com/watch?v=unpJgmjTLEg)
++ [🎥 - Comparação entre distribuições Linux [PT-BR]](https://youtu.be/pIc1JVoF_n8)
 + [🎥 - Características de interfaces Linux e comparações [PT-BR]](https://youtu.be/bHI7xK6bjHw)
 
 **6.3.1** Arch Linux
@@ -231,7 +231,7 @@ Este é um guia de estudos que contém alguns assuntos e programas que considera
 
 **6.7** Log
 + [🎥 - O que é e para que serve o log [PT-BR]](https://youtu.be/BVqFpbFiV34)
-+ [🎥 - Logs no Linux [PT-BR]](https://youtu.be/BVqFpbFiV34)
++ [🎥 - Logs no Linux [PT-BR]](https://youtu.be/WoRuvXhznlI)
 
 **6.8** Malware
 + [📖 - O que é um malware [PT-BR / EN]](https://www.avast.com/pt-br/c-malware)
@@ -243,6 +243,7 @@ Este é um guia de estudos que contém alguns assuntos e programas que considera
 + [🎥 - O que é Shell [PT-BR]](https://youtu.be/zskFbzsZu8s)
 
 **6.10.1** Bash
++ [🎥 - Aprendendo sobre bash [PT-BR]](https://youtube.com/playlist?list=PL92V4Af2KsYao5gxUP66f6asqgdQsBgKG)
 + [📖 - Bash para iniciantes [EN]](https://tldp.org/LDP/Bash-Beginners-Guide/html/index.html)
 + [📖 - Bash avançado [EN]](https://tldp.org/LDP/abs/html/index.html)
 
@@ -282,11 +283,11 @@ Este é um guia de estudos que contém alguns assuntos e programas que considera
 + [🎥 - Como funcionam os protocolos TCP e UDP [PT-BR]](https://youtu.be/uRvjPlbJ_98)
 
 **7.3.7** HTTP e HTTPS
-+ [🎥 - O que é e como funciona o protocolo HTTP [PT-BR]](https://www.youtube.com/watch?v=hwttZtWkXTk)
-+ [🎥 - Certificados e o porquê do "S" no HTTPS [PT-BR]](https://www.youtube.com/watch?v=eOsGqXy2vmA)
++ [🎥 - O que é e como funciona o protocolo HTTP [PT-BR]](https://youtu.be/hwttZtWkXTk)
++ [🎥 - Certificados e o porquê do "S" no HTTPS [PT-BR]](https://youtu.be/eOsGqXy2vmA)
 
 **7.3.8** SSH
-+ [📖 - SSH X Telnet [PT-BR]](https://www.alura.com.br/artigos/entendendo-as-diferencas-entre-telnet-e-ssh?gclid=CjwKCAjw4ZWkBhA4EiwAVJXwqQELEGJkU6SY_R3tiY7bJvJmyHO5fA93u-jkKZnY6ozumBi9oIwLzxoCkqsQAvD_BwE)
++ [📖 - SSH X Telnet [PT-BR]](https://www.alura.com.br/artigos/entendendo-as-diferencas-entre-telnet-e-ssh)
 
 **7.3.9** WHOIS
 + [🎥 - Para que serve o WHOIS [PT-BR]](https://youtu.be/JaPiMft3yME)
@@ -310,7 +311,7 @@ Este é um guia de estudos que contém alguns assuntos e programas que considera
 **7.8** Dispositivos
 + [🎥 - Switch, Hub e Roteador [PT-BR]](https://youtu.be/BmBPhA5b-Lc)
 + [🎥 - Modem e Roteador [PT-BR]](https://youtu.be/feqhdXiG0d8)
-+ [🎥 - Equipamentos de rede [PT-BR]](https://www.youtube.com/watch?v=u2LeXY07vrE)
++ [🎥 - Equipamentos de rede [PT-BR]](https://youtu.be/u2LeXY07vrE)
 
 **7.8.1** Switch
 
@@ -332,7 +333,7 @@ Este é um guia de estudos que contém alguns assuntos e programas que considera
 + [🎥 - Conceitos para subdomain takeover [PT-BR]](https://youtu.be/u_nXZ4YRcto)
 
 **7.11** Cookies
-+ [📖 - O que são e como funcionam os cookies [PT-BR]](https://www.alura.com.br/artigos/o-que-sao-cookies-como-funcionam?gclid=CjwKCAjw4ZWkBhA4EiwAVJXwqVFwnrxxbgXvc5sIg-9xCaaJ5aNsTdyBow4iLvbH0TWr46kEIKr36RoCXqQQAvD_BwE)
++ [📖 - O que são e como funcionam os cookies [PT-BR]](https://www.alura.com.br/artigos/o-que-sao-cookies-como-funcionam)
 
 **7.12** IoT
 + [📖 - O que é IoT [PT-BR / EN]](https://www.redhat.com/pt-br/topics/internet-of-things/what-is-iot)
@@ -372,7 +373,7 @@ Este é um guia de estudos que contém alguns assuntos e programas que considera
 + [📖 - Documentação do Nmap [PT-BR]](https://nmap.org/book/man.html)
 
 **7.16.2** Burp Suite
-+ [🎥 - Uso do Burp Suite [EN]](https://www.youtube.com/watch?v=ouDe5sJ_uC8&list=PLoX0sUafNGbH9bmbIANk3D50FNUmuJIF3&pp=iAQB)
++ [🎥 - Uso do Burp Suite [EN]](https://youtu.be/ouDe5sJ_uC8)
 
 **7.16.3** Wireshark
 + [🎥 - Introdução ao WireShark [PT-BR]](https://youtube.com/playlist?list=PLucm8g_ezqNoBnWA9vtlqQeY7Es9Hv3FY)
@@ -416,7 +417,7 @@ Este é um guia de estudos que contém alguns assuntos e programas que considera
 ## **9.** Pwning
 
 **9.1** Vulnerabilidades
-+ [🎥 - Vulnerabilidades e segurança [PT-BR]](https://www.youtube.com/watch?v=wz1Ioqb89Jo)
++ [🎥 - Vulnerabilidades e segurança [PT-BR]](https://youtu.be/wz1Ioqb89Jo)
 
 **9.1.1** OWASP
 + [🎥 - O que é a OWASP [PT-BR]](https://youtu.be/erwu5LsHJQc)
@@ -468,15 +469,15 @@ Este é um guia de estudos que contém alguns assuntos e programas que considera
 **10.1.4** Arquitetura de processadores
 
 **10.2** Linguagem de máquina
-+ [📖 - O que é linguagem de máquina e Assembly [EN]](https://www.lenovo.com/us/en/glossary/machine-language/?orgRef=https%253A%252F%252Fwww.google.com%252F)
++ [📖 - O que é linguagem de máquina e Assembly [EN]](https://www.lenovo.com/us/en/glossary/machine-language/)
 
 **10.3** Linguagem de programação
-+ [🎥 - Sobre a linguagem C [PT-BR]](https://youtu.be/6mUCcsnCn08?si=sn9q0AZOmm-ZKD2L)
-+ [🎥 - Conceitos para a linguagem C [PT-BR]](https://youtu.be/Gp2m8ZuXoPg?si=2KlInXDSXVb27C8u)
++ [🎥 - Sobre a linguagem C [PT-BR]](https://youtu.be/6mUCcsnCn08)
++ [🎥 - Conceitos para a linguagem C [PT-BR]](https://youtu.be/Gp2m8ZuXoPg)
 + [📖 - Introdução à linguagem C [EN]](https://www.programiz.com/c-programming)
 
 **10.4** Assembly
-+ [🎥 - Fundamentos do Assembly [PT-BR]](https://youtube.com/playlist?list=PLXoSGejyuQGohd0arC7jRBqVdQqf5GqKJ&si=mOjGFERsij1YHFDt)
++ [🎥 - Fundamentos do Assembly [PT-BR]](https://youtube.com/playlist?list=PLXoSGejyuQGohd0arC7jRBqVdQqf5GqKJ)
 
 ## **11.** Bancos de dados
 [🎥 - Conceitos de bancos de dados [PT-BR]](https://youtu.be/xjH48f4uMtc)
@@ -502,18 +503,20 @@ Este é um guia de estudos que contém alguns assuntos e programas que considera
 + [✍️ - Explicação com práticas de SQL injection [EN]](https://portswigger.net/web-security/sql-injection)
 
 ## **12.** DevOps
-[🎥 - Sobre devops [PT-BR]](https://youtu.be/iwf6kcvxeD4?si=9sSYHkMG8pXOLJGe)
+[📖 - Sobre DevOps [PT-BR]](https://aws.amazon.com/pt/devops/what-is-devops/)
 \
-[🎥 - Uso básico do Docker [PT-BR]](https://youtu.be/umwm2SJZygg?si=7qr4-QI6_a-eAD-l)
+[🎥 - Sobre DevSecOps [PT-BR]](https://youtu.be/CCp30BD9uRo)
+\
+[🎥 - Uso básico do Docker [PT-BR]](https://youtu.be/umwm2SJZygg)
 
 **12.1** Cloud
-+ [🎥 - O que é cloud computing [PT-BR]](https://youtu.be/97l0Ahu2efE?si=VeZw6MlrrjB0kFyR)
++ [🎥 - O que é cloud computing [PT-BR]](https://youtu.be/97l0Ahu2efE)
 
 **12.2** Containers
-+ [🎥 - O que são containers [PT-BR]](https://youtu.be/-pUZBovqRcU?si=riZHuPVArqR1npjt)
++ [🎥 - O que são containers [PT-BR]](https://youtu.be/-pUZBovqRcU)
 
 **12.3** Kubernets
-+ [🎥 - O que são kubernets [PT-BR]](https://youtu.be/mVL0nOM3AGo?si=NLiGLZsT6SAfVKzP)
++ [🎥 - O que são kubernets [PT-BR]](https://youtu.be/mVL0nOM3AGo)
 
 <div align="right">
   <b><a href="#guia"> Voltar ao topo </a></b>
